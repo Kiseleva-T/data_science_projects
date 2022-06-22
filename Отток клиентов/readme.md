@@ -1,7 +1,7 @@
 ОТТОК КЛИЕНТОВ
 
 В данном проекте была поставлена следующая задача:
-необходимо проанализировать поведение пользователей и предложить тариф на основе их поведения.
+необходимо проанализировать поведение пользователей и создать моделей, предсказывающую уход клиента из банка.
 
 Использованные библиотеки:
 pandas,  sklearn.tree,  sklearn.ensemble,  sklearn.linear_model,  sklearn.metrics,  sklearn.model_selection,  sklearn.dummy,  sklearn.preprocessing,  sklearn.utils 
