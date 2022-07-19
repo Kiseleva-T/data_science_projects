@@ -15,5 +15,5 @@
 | [Защита персональных данных клиентов](https://github.com/Kiseleva-T/data_science_projects/tree/main/Защита%20персональных%20данных%20клиентов "Защита персональных данных клиентов") | Разработка метода преобразования данных | *pandas*, *numpy*, *sklearn* |
 | Определение стоимости автомобилей | Создание модели для определения стоимости автомобиля |  *pandas*, *sklearn*, *numpy*, *math*, *catboost*, *lightgbm*, *time* |
 | [Прогнозирование заказов такси](https://github.com/Kiseleva-T/data_science_projects/tree/main/Прогнозирование%20заказов%20такси "Прогнозирование заказов такси") | Прогноз количества заказов такси на следующий час | *pandas*, *sklearn*, *numpy*, *matplotlib*, *catboost*, *lightgbm*, *statsmodels.tsa.seasonal* |
-| Проект для «Викишоп» | Создание модели для классификации комментариев | *pandas*, *nltk*, *collections*, *re*, *tqdm*, *sklearn* |
+| [Проект для «Викишоп»](https://github.com/Kiseleva-T/data_science_projects/tree/main/Проект%20для%20Вики-Шоп "Проект для Вики-Шоп") | Создание модели для классификации комментариев | *pandas*, *nltk*, *collections*, *re*, *tqdm*, *sklearn* |
 | [Определение возраста покупателей](https://github.com/Kiseleva-T/data_science_projects/tree/main/Компьютерное%20зрение "Компьютерное зрение") | Определение возраста человека по фотографии | *pandas*, *tensorflow*, *keras*, *matplotlib*, *seaborn*, *numpy* |
